@@ -1,5 +1,7 @@
 # KNOW-B4-U-GO
-Have you ever stayed at an Airbnb? Did research on the place you were staying before booking? Had to click through multiple different sites to find all the answers you were looking for?
+Have you ever stayed at an Airbnb? 
+Did research on where you're staying before booking? 
+Had to click through multiple different sites to find all the answers you were looking for?
 
 That’s where Know-B4-U-Go comes in! Filling a whitespace in the market where you can go to one site and gain a holistic perspective of where you want to travel (Airbnb pricing by neighborhood, crime data, comments sentiment analysis, & where to eat).
 
