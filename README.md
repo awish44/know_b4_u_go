@@ -12,7 +12,7 @@ Take a look at the beta-site here: <br>
 * [Eric Lieu](https://github.com/elieu17)
  
 ## HTML Files:
-[Here](index.html) is the code for the landing page and don't forget to check out my [style sheet](style.css)!
+[Here](index.html) is the code for the landing page and don't forget to check out the [style sheet](style.css)!
 
 Links to code for all pages:
 * [Pricing & Crime Map](map.html)
